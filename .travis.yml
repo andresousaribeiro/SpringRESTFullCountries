@@ -1,3 +1,5 @@
 language: java
 jdk:
 - oraclejdk8
+notifications:
+  slack: andreribeiro:8CXC4LYllFP8RRlw7AH23H1U
